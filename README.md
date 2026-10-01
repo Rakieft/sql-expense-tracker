@@ -6,7 +6,7 @@ The program lets the user insert new expenses, update or delete existing ones, l
 
 My purpose in writing this software was to practice designing a relational schema with a foreign key relationship, and to practice building and executing real SQL statements from Python instead of only using an ORM.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/r7EE__39-JQ)
 
 # Relational Database
 
